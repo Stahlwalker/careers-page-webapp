@@ -63,7 +63,7 @@ export function GhTable({ ghSlug }: GhTableProps) {
     return (
       <div className={styles.container}>
         <div className={styles.loadingState}>
-          Enter a Greenhouse slug above to view job listings, silly 
+          Enter a Greenhouse slug above to view job listings, hello world
         </div>
       </div>
     );
